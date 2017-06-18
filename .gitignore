@@ -15,8 +15,12 @@ wp-content/backup-db
 wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
 wp-content/cache
+wp-content/cache/supercache
+wp-content/w3tc-cache/
 wp-content/plugins/
 debug.log
+
+
 
 # wpengine specific
 .smushit-status
